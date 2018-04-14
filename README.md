@@ -1,3 +1,6 @@
+https://github.com/huangjincq/vue-better-scroll 代码出处！
+
+
 # [vue-better-scroll](https://github.com/huangjincq/vue-better-scroll)
 
 > A vue plugins based on [better-scroll](https://github.com/ustbhuangyi/better-scroll)
